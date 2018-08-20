@@ -2,3 +2,5 @@
 
 This repo contains all the final files that were discussed in the workshop, and will be updated after each session.
 Feel free to fork, download, mix, match and contribute.
+  
+[Click here to download](https://github.com/projectHELIOS/Powerful-Projects-101/archive/master.zip)
